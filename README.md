@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Shrikant.
 - 👀 I’m interested in everything Javascript.
 - 🌱 I’m currently learning leadership and management.
-- 💞️ I’m looking to collaborate on anything Javascript.
-- 📫 Reach out to me on https://twitter.com/shrikster9
